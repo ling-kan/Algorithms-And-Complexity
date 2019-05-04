@@ -1,4 +1,11 @@
 # Algorithms-And-Complexity
+# University of Lincoln
+
+
+![University of Lincoln](http://thelincolnite.co.uk/wp-content/uploads/2012/07/new_uni_crest.jpg "University of Lincoln")
+
+
+----------
 
 
 This assignment asks you to design and implement a Search and Sort application. In particular, you
