@@ -1,0 +1,6 @@
+C:\Users\Ling\Desktop\CMP1124M - Algorthims & Complexity\Program\ConsoleApplication1\bin\Release\Application.exe.config
+C:\Users\Ling\Desktop\CMP1124M - Algorthims & Complexity\Program\ConsoleApplication1\bin\Release\Application.exe
+C:\Users\Ling\Desktop\CMP1124M - Algorthims & Complexity\Program\ConsoleApplication1\bin\Release\Application.pdb
+C:\Users\Ling\Desktop\CMP1124M - Algorthims & Complexity\Program\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ling\Desktop\CMP1124M - Algorthims & Complexity\Program\ConsoleApplication1\obj\Release\Application.exe
+C:\Users\Ling\Desktop\CMP1124M - Algorthims & Complexity\Program\ConsoleApplication1\obj\Release\Application.pdb
